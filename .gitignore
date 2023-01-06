@@ -2,6 +2,8 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=venv,python,visualstudiocode
 
 random_image
+resized_image
+squared_image
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
